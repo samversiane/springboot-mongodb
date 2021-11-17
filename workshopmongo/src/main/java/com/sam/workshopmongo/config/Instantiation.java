@@ -3,7 +3,6 @@ package com.sam.workshopmongo.config;
 import com.sam.workshopmongo.domain.User;
 import com.sam.workshopmongo.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Configurable;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 
